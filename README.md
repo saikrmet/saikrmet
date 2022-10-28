@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/22/75/43/360_F_422754338_8mV1KgejRJEHF9cXSWsSbFbR5So6Bcm9.jpg)
+![MasterHead](https://github.com/saikrmet/saikrmet/blob/5e560ddf7dccbcca6da29eb273676ff5ad70b6de/DE_Picture.png)
 <h1 align="center">Hi 👋, I'm Sai Mettupalli</h1>
 <h3 align="center">CS @ Rice University and Data Engineer</h3>
 
