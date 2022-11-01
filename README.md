@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-- 🌱 I’m currently learning **TensorFlow, Spark, NRT pipelines, DataVis**
+- 🌱 I’m currently learning **Spark, NRT pipelines, CI/CD, and DataVis**
 
 - 💬 Ask me about: **ETL/ELT, Python, SQL, Azure**
 
