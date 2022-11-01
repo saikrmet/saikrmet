@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **saikrmet@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1thT2Aq2MT73D743BkIAGVCy6rPnv2fvO/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1IXl-IXmkRBidcvBSiMfHUidQvBHhESJx/view?usp=sharing)
 
 - ⚡ Fun fact: **Love Christopher Nolan movies**
 
