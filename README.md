@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/saikrmet/saikrmet/blob/5e560ddf7dccbcca6da29eb273676ff5ad70b6de/DE_Picture.png)
-<h1 align="center">👋 Hi, I'm Sai Mettupalli</h1>
+<h1 align="center">👋  Hi, I'm Sai Mettupalli</h1>
 <h3 align="center">CS @ Rice University and Data Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
