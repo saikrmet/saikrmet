@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/saikrmet/saikrmet/blob/5e560ddf7dccbcca6da29eb273676ff5ad70b6de/DE_Picture.png)
+![MasterHead](https://github.com/saikrmet/saikrmet/blob/486ad5b3ad277cd78aac0f3c1e8ae4d1dd058a87/AzureAIBlack.jpg)
 <h1 align="center">👋  Hi, I'm Sai Mettupalli</h1>
 <h3 align="center">COO @ JRSS and CS Rice Grad</h3>
 
