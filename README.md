@@ -1,18 +1,14 @@
 ![MasterHead](https://github.com/saikrmet/saikrmet/blob/5e560ddf7dccbcca6da29eb273676ff5ad70b6de/DE_Picture.png)
 <h1 align="center">👋  Hi, I'm Sai Mettupalli</h1>
-<h3 align="center">CS @ Rice University and Data Engineer</h3>
+<h3 align="center">COO @ JRSS and CS Rice Grad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-- 🌱 I’m currently learning **Spark, NRT pipelines, CI/CD, and DataVis**
+- 🌱 I’m currently learning **OpenAI, Computer Vision, and Terraform**
 
-- 💬 Ask me about: **ETL/ELT, Python, SQL, Azure**
+- 💬 Ask me about: **Python, Java, SQL, Azure**
 
-- 📫 How to reach me: **saikrmet@gmail.com**
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vwUOovBptkfC5ecgIpuoq0RMlS5VsdDw/view?usp=sharing)
-
-- ⚡ Fun fact: **Love Christopher Nolan movies**
+- 📫 How to reach me: **srm@jrssinc.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
