@@ -1,12 +1,12 @@
 ![MasterHead](https://github.com/saikrmet/saikrmet/blob/486ad5b3ad277cd78aac0f3c1e8ae4d1dd058a87/AzureAIBlack.jpg)
 <h1 align="center">👋  Hi, I'm Sai Mettupalli</h1>
-<h3 align="center">COO @ JRSS and Rice CS Alumni</h3>
+<h3 align="center">AI Engineer @ CDC, Chief AI Officer @ JRSS and Rice CS Alumni</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-- 🌱 I’m currently learning **Vector Search, LLM fine-tuning, and Terraform**
+- 🌱 I’m currently learning **Model Context Protocol, LLM fine-tuning, and Agentic AI**
 
-- 💬 Ask me about: **ML, NLP, CV, GenAI, RAG, Azure, Python, and more**
+- 💬 Ask me about: **ML, NLP, CV, GenAI, RAG, Agents, Azure, Python, and more**
 
 - 📫 How to reach me: **srm@jrssinc.com**
 
